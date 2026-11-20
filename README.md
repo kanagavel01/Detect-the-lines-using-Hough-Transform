@@ -25,8 +25,6 @@ To implement a basic lane detection pipeline using OpenCV by completing missing 
 
 ##  Algorithm & Explanation
 
----
-
 ###  Step 1: Import Libraries
 
 ###  Step 2: Read the Image
@@ -103,8 +101,8 @@ plt.axis('off')
   <img width="360" height="501" alt="image" src="https://github.com/user-attachments/assets/8beab7c4-5f14-4f9d-b59a-22c8c457a58c" />
 
 * Canny Edge Detector
-
-<img width="360" height="501" alt="image" src="https://github.com/user-attachments/assets/a13bf5f5-e7e1-4da4-b33f-33850f304801" />
+  
+<img width="375" height="512" alt="image" src="https://github.com/user-attachments/assets/9f585d9c-2f1f-42a8-8ed3-ecef38a226fe" />
 
 * Result of Hough Transform
 
